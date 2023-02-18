@@ -1,6 +1,6 @@
-#News Homepage Challenge
+News Homepage Challenge
 
-*Technologies utilisées *
+Technologies utilisées :
 
 -HTML
 -CSS
